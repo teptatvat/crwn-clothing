@@ -1,6 +1,6 @@
-## Lesson-3
+## Lesson-1
 
-Going through our folder structure for the project, breaking out homepage component into smaller components
+In this lesson, we are exploring how to use Create React App. We are leveraging it to help us bootstrap our application and handle the webpack configuration. 
 
 # How to fork and clone
 
